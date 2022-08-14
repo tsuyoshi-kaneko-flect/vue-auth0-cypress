@@ -1,5 +1,5 @@
 {
-  "name": "some-web-app",
+  "name": "vue-auth0-cypress",
   "version": "0.1.0",
   "private": true,
   "scripts": {

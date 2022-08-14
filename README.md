@@ -1,4 +1,4 @@
-# some-web-app
+# vue-auth0-cypress
 
 ## Project setup
 ```
